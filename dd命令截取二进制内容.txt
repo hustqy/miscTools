@@ -1,0 +1,1 @@
+dd if=** of=** skip=begin_offset count=numberofBytesFromBeginning bs=1
